@@ -9,4 +9,4 @@
 <img src="/img/GitScreenshots/GetInTouch.jpg" width="800" height="400" />
 
 
-**My portfolio will be uploaded in a domain!*
+*My portfolio will be uploaded in a domain!*
